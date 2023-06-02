@@ -100,4 +100,4 @@ Add your written responses and a link to your deployed notebook in [RESPONSES.md
 
 When you're ready, let us know and we'll schedule it for review. Make sure you add the URL to your deployed notebook!
 
-We review submissions once a week. You'll hear back from us no matter what by the end of the _following_ week, possibly sooner if you submit early in the week.
+We review submissions several times a week. You'll hear back from us no matter what no later than the end of the _following_ week, but probably sooner if you submit early in the week.
