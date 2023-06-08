@@ -83,10 +83,9 @@ Your writing and code do not need to be perfect. We get that you have a life out
 Do not spend time on:
 
 * Multiple edits to your writing
-* Making the Rails app pretty
 * Code tests
 
-If you've ever written rails before, we expect the Rails challenge to take about 30 minutes. You can spend as long as you need, though, don't stress if you're learning on the fly.
+If you've ever written Python before, we expect the notebook challenge to take about 30 minutes. You can spend as long as you need, though, don't stress if you're learning on the fly.
 
 We think the written responses should take about 1.5 hours total. When we write responses to customers, we usually spend about 10 minutes each. We're not immune to typos ether.
 
@@ -96,8 +95,8 @@ We'll invite you to a private GitHub repo based on this template.
 
 Do all of your work in the `main` branch. Don't bother with PRs, branches, or spend time on tidy commits -- we have software to help us review. Just don't force push over the initial commit or we can't generate a diff of only your work.
 
-Add your written responses and a link to your deployed notebook in [RESPONSES.md](RESPONSES.md).
+Add your written responses and a link to your deployed notebook in [RESPONSES.md](RESPONSES.md). If you don't deploy the notebook outside of the repo, don't worry, you can just make a note of that in the RESPONSES.md. We assume you'll clone it to Collab or Databricks but you don't have to.
 
-When you're ready, let us know and we'll schedule it for review. Make sure you add the URL to your deployed notebook!
+When you're ready, let us know and we'll schedule it for review.
 
 We review submissions several times a week. You'll hear back from us no matter what no later than the end of the _following_ week, but probably sooner if you submit early in the week.
